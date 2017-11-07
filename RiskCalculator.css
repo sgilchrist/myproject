@@ -1,2 +1,12 @@
-.inline {
-}
+.radio-inline{
+	padding-left: 20px;
+	padding-right: 10px;
+	margin-right: 10px;
+	font-size: small;
+	width: 120px;
+	height: 100px;
+	background-color: white;
+	border-color: cornflowerblue;
+	border-width: thin;
+	border-style: dashed;
+} 
